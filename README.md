@@ -1,1 +1,1 @@
-<!-- this is project to predict the stock using the hybrid model  -->
+ this is project to predict the stock using the hybrid model  
